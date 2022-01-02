@@ -1,0 +1,8 @@
+tsc --init - Cria o arquivo tsconfig.json
+
+ctrl + shift + b = transpila o arquivo .ts em tempo de execução.
+
+
+npm run server - iniciar o servidor na porta 3002
+
+npm run compile - Inicia o compilador TS
